@@ -3,7 +3,7 @@
 install.packages(c("ggplot2", "dplyr", "tidyr", "tidyverse", "gtools", "dslabs", 
                    "HistData", "pdftools", "gutenberg", "gam", "purrr", "Seurat",
                    "RColorBrewer", "ggrepel", "Rqc", "QuasR", "pheatmap", "DOSE",
-                   "enrichplot", "ggupset"))
+                   "enrichplot", "ggupset", "markdown", "knitr"))
 
 
 # Instalation of Bioconductor packages, first:
